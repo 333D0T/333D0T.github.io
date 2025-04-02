@@ -1,9 +1,9 @@
-import * as THREE from '../node_modules/three/build/three.module.js';
-import { FBXLoader } from '../three/examples/jsm/loaders/FBXLoader.js';
-import { EffectComposer } from '../three/examples/jsm/postprocessing/EffectComposer.js';
-import { RenderPass } from '../three/examples/jsm/postprocessing/RenderPass.js';
-import { ShaderPass } from '../three/examples/jsm/postprocessing/ShaderPass.js';
-import { TextureLoader } from '../node_modules/three/src/loaders/TextureLoader.js';
+import * as THREE from 'https://cdn.jsdelivr.net/npm/three/build/three.module.js';
+import { FBXLoader } from 'https://cdn.jsdelivr.net/npm/three/examples/jsm/loaders/FBXLoader.js';
+import { EffectComposer } from 'https://cdn.jsdelivr.net/npm/three/examples/jsm/postprocessing/EffectComposer.js';
+import { RenderPass } from 'https://cdn.jsdelivr.net/npm/three/examples/jsm/postprocessing/RenderPass.js';
+import { ShaderPass } from 'https://cdn.jsdelivr.net/npm/three/examples/jsm/postprocessing/ShaderPass.js';
+import { TextureLoader } from 'https://cdn.jsdelivr.net/npm/three/src/loaders/TextureLoader.js';
 
 
 // Pixelation shader
