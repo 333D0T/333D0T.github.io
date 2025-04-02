@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@dimforge/rapier3d-compat": "^0.15.0",
+    "three": "^0.174.0"
+  },
+  "devDependencies": {
+    "vite": "^6.2.2"
+  }
+}
